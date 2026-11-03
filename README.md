@@ -48,9 +48,6 @@ AWS Resources → AWS Usage Metrics → CloudWatch Dashboard
 ## Project Status
 In Progress
 
-## Author
-Sujendran
-
 ## Screenshots
 
 ### CloudWatch Dashboard
@@ -61,3 +58,6 @@ Sujendran
 
 ### CloudWatch Metrics
 ![CloudWatch Metrics](screenshots/03-cloudwatch-metrics.jpg)
+
+## Author
+Sujendran
