@@ -50,3 +50,14 @@ In Progress
 
 ## Author
 Sujendran
+
+## Screenshots
+
+### CloudWatch Dashboard
+![CloudWatch Dashboard](screenshots/01-cloudwatch-dashboard.jpg)
+
+### AWS Budgets
+![AWS Budgets](screenshots/02-aws-budgets.jpg)
+
+### CloudWatch Metrics
+![CloudWatch Metrics](screenshots/03-cloudwatch-metrics.jpg)
